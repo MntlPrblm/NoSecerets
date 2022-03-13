@@ -47,7 +47,7 @@ def start():
     print(Fore.LIGHTCYAN_EX+"Hash type [6]: "+hash_choice)
     print(Fore.LIGHTCYAN_EX+"Show files [7]")
     print(Fore.LIGHTCYAN_EX+"Exit [0]")
-    print(Fore.LIGHTRED_EX+"Type start to begin attack")
+    print(Fore.LIGHTRED_EX+"Type "+Fore.LIGHTWHITE_EX+"start "+Fore.LIGHTRED_EX+" to begin attack")
     print("")
 
 
