@@ -16,5 +16,5 @@ the size of the wordlist
 # Usage
 git clone https://github.com/MntlPrblm/NoSecerets.git  
 cd NoSecerets  
-pip install -r requirenments.txt  
+pip install -r requirements.txt  
 python main.py  
